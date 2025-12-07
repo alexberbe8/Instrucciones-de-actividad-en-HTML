@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="es">
+<body>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body style="margin:20px; background:#fafafa; font-family: system-ui, sans-serif;">
+
+<!-- 🔶 Banner previo a la actividad -->
+<div style="
+  background:#fff6e6;
+  border-left:6px solid #ff8800;
+  padding:18px 22px;
+  font-size:1.1rem;
+  line-height:1.55;
+  border-radius:8px;
+  margin-bottom:20px;
+  font-family: system-ui, sans-serif;
+">
+  <strong style="font-size:1.25rem;">📌 Leé todas las instrucciones antes de comenzar</strong><br><br>
+
+  • Realizá la autoevaluación completa.<br>
+  • Al finalizar, tocá <strong>FINALIZAR</strong> para ver tu puntaje.<br>
+  • Tomá una <strong>captura de pantalla</strong> donde se vea tu nota y el porcentaje.<br>
+  • Subí esa imagen en esta tarea.<br><br>
+
+  <div style="
+    background:#ffe4c4;
+    padding:12px 16px;
+    border-radius:6px;
+    border:2px solid #ff8800;
+    font-weight:700;
+    color:#b84a00;
+    text-align:center;
+    font-size:1.1rem;
+  ">
+    ⚠️ <strong>IMPORTANTE:</strong> sin la captura de pantalla <u>la actividad no se considera realizada</u>.  
+    ¡No olvides subirla! ⚠️
+  </div>
+</div>
+
+</body>
+</html>
+
+</html>
